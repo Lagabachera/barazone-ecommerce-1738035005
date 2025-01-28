@@ -1,1 +1,1 @@
-web: python odoo/odoo-bin --config=odoo.conf --save
+web: python odoo/odoo-bin -c /home/odoo/odoo.conf --save
